@@ -42,6 +42,52 @@ Full-stack developer with years building web apps, internal systems, and AI-powe
 - 🔗 **REST APIs & third-party integrations** — Salesforce, Airtable, GoHighLevel
 - 📊 **Dashboards & data tools** — processing and visualising large datasets
 <!-- 🛒 **E-commerce & marketplaces** — Shopify, custom bidding platforms -->
+
+---
+
+## ✨ Featured Projects
+
+### 🔒 [QR Safety Scanner](https://qr-code-app-d02492.gitlab.io/)
+
+Privacy-first PWA that scans QR codes and evaluates URL safety entirely on-device. Camera is the only permission; no network calls during use; installable as a PWA. Desktop users can upload an image or paste a screenshot instead.
+
+*Built because the stock scanner on my Xiaomi Pad demanded Bluetooth and Location permissions just to read a QR code.*
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📝 [Markdown Viewer](https://elmoya.github.io/markdown-viewer/)
+
+Zero-setup tool that turns escaped markdown strings — the kind you pull out of API responses or JSON payloads, full of literal `\n` and `\t` — into a clean, readable preview. Side-by-side or tabbed, light/dark/system theme, GFM tables and task lists.
+
+*Built because I kept pasting escaped markdown from n8n and LLM API responses into throwaway renderers just to read the output.*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🎙️ [Voice Memo Analyzer](https://github.com/elmoya/voice-memo-analyzer) *(in development)*
+
+Fully local, GPU-accelerated pipeline that turns phone voice memos (MP3 / AAC / M4A) into searchable transcripts, summaries, and action items — without sending a single byte to the cloud. Runs `whisper.cpp` and Ollama (Gemma) side-by-side on a single GPU, persisted to SQLite.
+
+*Built because cloud transcription is convenient, but I'd rather not hand over hours of private audio to a third party.*
+
+![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![whisper.cpp](https://img.shields.io/badge/whisper.cpp-6E40C9?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
 <!-- 
 ---
 
@@ -52,7 +98,6 @@ Full-stack developer with years building web apps, internal systems, and AI-powe
   <img src="https://streak-stats.demolab.com?user=elmoya&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 -->
----
 
 ## 📫 Let's Connect
 
