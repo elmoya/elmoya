@@ -56,8 +56,9 @@ Full-stack developer with years building web apps, internal systems, and AI-powe
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:elmoya.jobs+github@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:elmoya.jobs+git@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/elmoya)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/elmoya.cpe)
 
 
 
