@@ -45,7 +45,7 @@ Full-stack developer with years building web apps, internal systems, and AI-powe
 
 ---
 
-## ✨ Featured Projects
+## ✨ Personal Projects
 
 ### 🔒 [QR Safety Scanner](https://qr-code-app-d02492.gitlab.io/)
 
@@ -88,6 +88,58 @@ Fully local, GPU-accelerated pipeline that turns phone voice memos (MP3 / AAC / 
 
 ---
 
+## 💼 Client & In-House Work
+
+A sample of production systems I've built for clients and employers — some solo, some as part of a team, and a few where I led the development. Most are closed-source or behind authentication, so they're listed without links — happy to walk through architecture, trade-offs, or specific challenges on request.
+
+### 🏢 Business Platforms & Marketplaces
+
+- **Stealth Creative Supernetwork (Early Access)** — One of the first developers on an AI-powered freelance platform with curated bidding, escrow-backed milestones, and a gamified reputation system.
+  *Laravel, MySQL, React, TypeScript, Airtable*
+
+- **Job & Task Management System** — Operational platform for an Australian client managing field jobs end-to-end; later led a rewrite to a newer stack.
+  *Angular, Laravel → C# Blazor*
+
+- **Internal Social Platform** — Employees-only social network where staff post updates, react and comment on each other's activity, and follow company news and announcements. Includes gamified engagement mechanics and localized landing sites for international rollout.
+  *React, Laravel*
+
+### 🛠️ Internal Tools & Back-Office Systems
+
+- **Payment Request Portal** — Replaced a paper-based approval process for the accounting team.
+  *Angular, Slim PHP*
+
+- **Audit System (Web + Android)** — Field-auditor mobile app paired with a web dashboard for ops review.
+  *Angular, Ionic, Slim PHP, MySQL*
+
+- **Deposit Transfer Portal** — Treasury-facing tool integrated directly with the company's Oracle backend.
+  *Angular, Slim PHP, Oracle*
+
+- **Fleet Management & Booking System** — Vehicle assignment, scheduling, and usage tracking across departments.
+  *Angular, React, Laravel, MySQL*
+
+### 🤖 AI & Automation
+
+- **AI Agent + Custom Chat UI for Insurance Agents** — Conversational tool backed by a vector-aware workflow on n8n and Supabase.
+  *React, TypeScript, n8n, Supabase, Python*
+
+- **GoHighLevel Automation & AI Stack** — Lead-routing, enrichment, and AI responses wired across GHL, Make, and n8n.
+  *GoHighLevel, Make, n8n, OpenAI*
+
+- **Salesforce Automation Suite** — Custom APIs and Make/AppScript flows extending Salesforce for an Australian client; also handled ongoing CRM maintenance and improvements.
+  *Salesforce, Make, Google AppScript, custom REST APIs*
+
+### 🌐 Marketing Sites & E-commerce
+
+- **PANDR Outsourcing PH** — Corporate site for a Philippines outsourcing firm. *(React, Laravel)*
+- **NOUVE** — Subscription-enabled Shopify storefront. *(Shopify)*
+- **TekTracking** — WordPress site for a rail infrastructure company. *(WordPress)*
+
+### 🤝 Civic Tech & Volunteer Work
+
+- **RapidPass.ph** — Volunteer build with DEVCON during the COVID-19 lockdowns; a digital quarantine pass system that helped frontliners and priority vehicles move through checkpoints. *(Angular)*
+
+---
+
 <!-- 
 ---
 
@@ -114,10 +166,10 @@ Fully local, GPU-accelerated pipeline that turns phone voice memos (MP3 / AAC / 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
